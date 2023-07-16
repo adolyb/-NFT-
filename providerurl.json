@@ -1,9 +1,0 @@
-{
-    "eth":"https://mainnet.infura.io/v3/",
-    "bsc":"https://rpc.ankr.com/bsc/e793142c3bb21a6a2d81a31278573f1ce4ed2265024711538e735c02302f89f7",
-    "zksync":"https://zksync2-mainnet.zksync.io",
-    "arb":"https://arb-mainnet.g.alchemy.com/v2/-3MHn07DTX5eqeprQ7TbkT1CR0m0EYMF",
-    "op":"https://opt-mainnet.g.alchemy.com/v2/EYsvS9XRUXZJujS96SsddbDcvpNA8KWk",
-    "zkevm":"https://zkevm-rpc.com",
-    "polygon":"https://endpoints.omniatech.io/v1/matic/mainnet/public"
-}
